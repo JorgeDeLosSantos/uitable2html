@@ -35,7 +35,7 @@ function tabstr = uitable2html(hTab,filename,opts)
 %
 %
 %    -------------------------------
-%       Ver. 1.0.0  ||  20/07/2016
+%       Ver. 1.1.0  ||  29/07/2016
 %           Jorge De Los Santos
 %        delossantosmfq@gmail.com
 %     http://matlab-typ.blogspot.mx
