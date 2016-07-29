@@ -34,7 +34,7 @@ function uitable2html(hTab,filename,opts)
 %              
 %
 %    -------------------------------
-%       Ver. 0.1.0  ||  20/07/2016
+%       Ver. 1.0.0  ||  20/07/2016
 %           Jorge De Los Santos
 %        delossantosmfq@gmail.com
 %     http://matlab-typ.blogspot.mx
